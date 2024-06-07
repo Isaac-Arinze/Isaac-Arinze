@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Isaac Arinze 👋
 
-<!--
-**Isaac-Arinze/Isaac-Arinze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software engineer with experience in Java, Spring Boot, and modern web development. I thrive on taking up challenges and meeting client needs. I am always ready to push the boundaries to deliver high-quality solutions.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/Isaac-Arinze?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Isaac-Arinze?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Isaac-Arinze&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Arinze&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Arinze&layout=compact&theme=radical)
+
+## About Me
+
+- 🌟 Software Engineer ready to take up challenges and meet client needs.
+- ☕ Experienced in Java, Spring Boot, and modern web development.
+- 🎈 Fun fact: I love smiling and going for beach walks to unwind.
+
+![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+
+## Contact Me
+
+- Email: isaac.arinze.dev@gmail.com.com
+- LinkedIn: [Isaac Arinze](https://www.linkedin.com/in/isaac-arinze-3692067a/)
+- Twitter: [@ArinzeIsaa4963](https://x.com/ArinzeIsaa4963)
