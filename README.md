@@ -22,4 +22,4 @@ I am a passionate software engineer with experience in Java, Spring Boot, and mo
 - Email: isaac.arinze.dev@gmail.com.com
 - LinkedIn: [Isaac Arinze](https://www.linkedin.com/in/isaac-arinze-3692067a/)
 - Twitter: [@ArinzeIsaa4963](https://x.com/ArinzeIsaa4963)
-- Resume/Cv:  https://flowcv.com/resume/77kbqhm6i4
+- Resume/Cv:  https://flowcv.com/resume/5atjc62jvu
